@@ -1,0 +1,3 @@
+
+export const SHIPMENT_ORDER_NUMBERS = 'JOO-SE8GW15WZ';
+
